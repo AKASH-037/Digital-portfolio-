@@ -126,7 +126,13 @@
             <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
         </div>
     </div>
+</div>
 
+        <div class="section" id="certificate">
+            <h2>certificate</h2>
+            <a href="file.pdf" target="_blank" class="download-button">Download certificate</a>
+        </div>
+    </div>
     <footer>
         <p>&copy; 2025 AKASH.M | All Rights Reserved</p>
     </footer>
